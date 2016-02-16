@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./epistolaadclaud00burmgoog_0009.png"; bbox 0 0 4064 5558; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 567 680 1372 1065">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 567 680 1372 1065">
+     <span class='ocr_line' id='line_1_1' title="bbox 567 680 1372 785; baseline 0.001 -24"><span class='ocrx_word' id='word_1_1' title='bbox 567 752 575 761; x_wconf 92' lang='lat'>.</span> <span class='ocrx_word' id='word_1_2' title='bbox 673 680 1098 785; x_wconf 38' lang='lat' dir='ltr'>Hnrnrdcvzwgoh&#39;mary</span> <span class='ocrx_word' id='word_1_3' title='bbox 1327 690 1372 757; x_wconf 76' lang='lat'>.³.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 744 780 1047 873; baseline 0.026 -21"><span class='ocrx_word' id='word_1_4' title='bbox 744 780 843 853; x_wconf 58' lang='lat' dir='ltr'>{juv-‚ie</span> <span class='ocrx_word' id='word_1_5' title='bbox 859 784 1047 873; x_wconf 67' lang='lat' dir='ltr'>Coliection·</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 791 878 942 953; baseline 0.04 -6"><span class='ocrx_word' id='word_1_6' title='bbox 791 878 942 953; x_wconf 73' lang='lat' dir='ltr'><strong>‚Giftof</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 691 973 1076 1065; baseline 0.01 -13"><span class='ocrx_word' id='word_1_7' title='bbox 691 973 765 1053; x_wconf 64' lang='lat' dir='ltr'>Hm.</span> <span class='ocrx_word' id='word_1_8' title='bbox 784 974 814 1051; x_wconf 81' lang='grc' dir='ltr'>Ε.</span> <span class='ocrx_word' id='word_1_9' title='bbox 833 978 867 1049; x_wconf 78' lang='grc' dir='ltr'>ὓ.</span> <span class='ocrx_word' id='word_1_10' title='bbox 893 977 1076 1065; x_wconf 60' lang='lat' dir='ltr'>&amp;endem-3</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 699 1048 1672 1221">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 699 1048 1672 1221">
+     <span class='ocr_line' id='line_1_5' title="bbox 699 1048 1672 1221; baseline 0.006 -69"><span class='ocrx_word' id='word_1_11' title='bbox 699 1088 703 1099; x_wconf 95' lang='lat'>·</span> <span class='ocrx_word' id='word_1_12' title='bbox 764 1048 1034 1167; x_wconf 56' lang='lat' dir='ltr'>amasos</span> <span class='ocrx_word' id='word_1_13' title='bbox 1091 1052 1130 1157; x_wconf 67' lang='lat'>⁸.</span> <span class='ocrx_word' id='word_1_14' title='bbox 1201 1076 1279 1213; x_wconf 52' lang='lat' dir='ltr'>J·</span> <span class='ocrx_word' id='word_1_15' title='bbox 1330 1176 1342 1213; x_wconf 84' lang='lat'>-.</span> <span class='ocrx_word' id='word_1_16' title='bbox 1402 1204 1407 1213; x_wconf 22' lang='lat'>¹</span> <span class='ocrx_word' id='word_1_17' title='bbox 1536 1076 1581 1221; x_wconf 80' lang='lat' dir='ltr'> </span> <span class='ocrx_word' id='word_1_18' title='bbox 1665 1090 1672 1113; x_wconf 93' lang='lat'>··</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2036 5558">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2036 5558">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 2036 5558; baseline 0 0"><span class='ocrx_word' id='word_1_19' title='bbox 0 0 2036 5558; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
